@@ -1,1 +1,2 @@
 # loan-prediction
+The company seeks to make the loan application process real-time based on the customer details provided while completing the online application form. This information is about gender, marital status, education, dependence, income, loan amount, credit history and more. To make this process work, they have provided the problem of identifying customer segments, those who qualify for a loan amount so that they can directly identify these customers. Here they provide an incomplete set of data.
